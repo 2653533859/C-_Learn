@@ -14,6 +14,8 @@ a.out
 main
 test
 demo
+basic_syntax_demo
+control_flow_demo
 
 # Debug files
 *.dSYM/
